@@ -1,0 +1,2 @@
+Table(7):Average Fisher Index of the features selected by the different optimizers on the test data using uniform initialization
+Dataset:	BGWO1		BGWO2		GA			PSO 

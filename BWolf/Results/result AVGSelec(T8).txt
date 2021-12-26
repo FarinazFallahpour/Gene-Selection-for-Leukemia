@@ -1,0 +1,5 @@
+Table(8):Average selected feature ratio on the average for the different methods using uniform initialization
+Dataset:	BGWO1		BGWO2		GA			PSO 
+D1:			0.6000		0.4200		0.5172		0.4991
+--------------------------------------------------------------------------------------------------
+Avrage:		0.6000		0.4200		0.5172		0.4991

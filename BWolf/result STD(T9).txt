@@ -1,0 +1,2 @@
+Table(9):Standard deviation of the obtained fitness function values over the 20 runs for the different methods using uniform initialization
+Dataset:	BGWO1		BGWO2		GA			PSO 

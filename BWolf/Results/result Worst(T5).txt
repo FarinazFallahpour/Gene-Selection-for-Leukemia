@@ -1,0 +1,5 @@
+Table(5):Worst fitness function obtained from the different optimizers using uniform initialization
+Dataset:	BGWO1		BGWO2		GA			PSO 
+D1:			0.0210		0.0220		0.0432		0.0272
+--------------------------------------------------------------------------------------------------
+Total:		0.0210		0.0220		0.0432		0.0272
